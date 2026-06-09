@@ -146,7 +146,7 @@ The assessment highlighted several recurring themes.
 - Employees remained vulnerable to phishing and social engineering.
 - Security awareness initiatives required greater emphasis on real-world attack techniques.
 
-**Security Hardening Recommendations**
+### **Security Hardening Recommendations**
 
 Recommendations were prioritized according to risk and potential impact.
 
