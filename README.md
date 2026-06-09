@@ -17,13 +17,13 @@ Each incident was investigated from the perspective of a Security Analyst, inclu
 
 The goal was not simply to identify weaknesses, but to understand how those weaknesses could be exploited and what practical controls would reduce organizational risk.
 
-**Why This Project Matters**
+### **Why This Project Matters**
 
 Organizations are not compromised because they lack security tools, they are compromised because security controls fail to prevent, detect, or respond to attacks effectively.
 
 This project examines those failures through the lens of realistic incidents, using the NIST Cybersecurity Framework to assess security posture and the MITRE ATT&CK framework to understand attacker behaviour. By connecting business risk, technical investigation, and security hardening recommendations, the project demonstrates the practical skills required to assess, investigate, and improve an organization's security maturity.
 
-**Project Objectives**
+### **Project Objectives**
 
 The objectives of this project were to:
 
@@ -33,9 +33,9 @@ The objectives of this project were to:
 - Develop risk-based recommendations to improve organizational resilience.
 - Demonstrate incident investigation and security assessment methodologies commonly used by Security Operations Centre (SOC) analysts and security teams.
 
-**Organization Profile**
+### **Organization Profile**
 
-**SwiftCart Logistics Ltd**
+#### **SwiftCart Logistics Ltd**
 
 SwiftCart Logistics Ltd is a fictional mid-sized logistics and transportation company operating across East Africa.
 
@@ -58,7 +58,7 @@ Its technology environment includes:
 
 Because email, endpoint devices, and user accounts are critical to daily operations, they represent attractive targets for cyber attackers.
 
-**Assessment Methodology**
+### **Assessment Methodology**
 
 The assessment was conducted using the five core functions of the NIST Cybersecurity Framework:
 
@@ -72,9 +72,9 @@ The assessment was conducted using the five core functions of the NIST Cybersecu
 
 Rather than treating these functions as a checklist exercise, each recommendation was tied directly to observed weaknesses within the incident scenarios.
 
-**Incident Scenarios**
+### **Incident Scenarios**
 
-**Incident 1: Business Email Compromise (BEC)**
+#### **Incident 1: Business Email Compromise (BEC)**
 
 A finance employee received a phishing email impersonating Microsoft Support and unknowingly submitted corporate credentials to a fraudulent login page.
 
@@ -89,7 +89,7 @@ Key areas analysed:
 - Business impact assessment
 - Identity security improvements
 
-**Incident 2: Malware Infection via Unauthorized USB Device**
+#### **Incident 2: Malware Infection via Unauthorized USB Device**
 
 A warehouse employee connected a personal USB storage device containing malware to a corporate workstation.
 
@@ -104,7 +104,7 @@ Key areas analysed:
 - Endpoint detection and response
 - Device control and endpoint hardening
 
-**MITRE ATT&CK Analysis**
+### **MITRE ATT&CK Analysis**
 
 To better understand attacker behaviour, both incidents were mapped to the MITRE ATT&CK framework.
 
@@ -119,7 +119,7 @@ This provided visibility into:
 
 Using ATT&CK mapping allowed defensive recommendations to be tied directly to adversary behaviours rather than generic security best practices.
 
-**Security Gaps Identified**
+### **Security Gaps Identified**
 
 The assessment highlighted several recurring themes.
 
@@ -171,7 +171,7 @@ Recommendations were prioritized according to risk and potential impact.
 - Establish security metrics and reporting
 - Perform regular incident response exercises
 
-**Skills Demonstrated**
+### **Skills Demonstrated**
 
 This project demonstrates practical experience in:
 
@@ -203,7 +203,7 @@ This project demonstrates practical experience in:
 - Security control evaluation
 - Security documentation
 
-**Project Structure**
+### **Project Structure**
 
 ├── README.md
 
@@ -219,7 +219,7 @@ This project demonstrates practical experience in:
 
 └── Supporting-Evidence/
 
-**Files**
+### **Files**
 
 | **File**                                  | **Description**                                                       |
 | ----------------------------------------- | --------------------------------------------------------------------- |
@@ -229,7 +229,7 @@ This project demonstrates practical experience in:
 | Risk-Register.xlsx                        | Identified risks, impact ratings, and prioritization.                 |
 | Security-Hardening-Roadmap.pdf            | Recommended remediation and improvement plan.                         |
 
-**Key Takeaways**
+### **Key Takeaways**
 
 One of the most valuable lessons from this project was recognizing that security controls are most meaningful when evaluated against realistic attack scenarios.
 
@@ -237,7 +237,7 @@ Frameworks such as NIST CSF provide structure, but effective security assessment
 
 By combining framework-based assessment with incident analysis and ATT&CK mapping, this project focuses on security from both a governance and operational perspective.
 
-**Future Improvements**
+### **Future Improvements**
 
 Future iterations of this project may include:
 
@@ -249,6 +249,6 @@ Future iterations of this project may include:
 - Threat hunting scenarios
 - Security metrics and KPI dashboards
 
-**Disclaimer**
+### **Disclaimer**
 
 This project was developed for educational and portfolio purposes. All organizations, users, systems, incidents, and data referenced within this repository are fictional and were created to demonstrate cybersecurity assessment and incident response concepts.
