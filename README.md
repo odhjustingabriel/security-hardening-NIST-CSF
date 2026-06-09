@@ -1,8 +1,8 @@
-**Security Hardening Assessment & Incident Analysis**
+# **Security Hardening Assessment & Incident Analysis**
 
-**NIST Cybersecurity Framework (CSF) | MITRE ATT&CK | Microsoft Defender | Microsoft 365**
+## **NIST Cybersecurity Framework (CSF) | MITRE ATT&CK | Microsoft Defender | Microsoft 365**
 
-**Overview**
+### **Overview**
 
 Security controls are often evaluated only after an organization experiences a security incident. In reality, effective cybersecurity requires understanding how existing controls perform before an attack occurs and identifying weaknesses before they become business problems.
 
