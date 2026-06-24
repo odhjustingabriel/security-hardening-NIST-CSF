@@ -2,6 +2,14 @@
 
 ## **NIST Cybersecurity Framework (CSF) | MITRE ATT&CK | Microsoft Defender | Microsoft 365**
 
+### Why This Project Matters
+
+Organizations are not compromised because they lack security tools—they are compromised because security controls fail to prevent, detect, or respond to attacks effectively.
+
+This project examines those failures through the lens of realistic incidents, using the NIST Cybersecurity Framework to assess security posture and the MITRE ATT&CK framework to understand attacker behavior. By connecting business risk, technical investigation, and security hardening recommendations, the project demonstrates the practical skills required to assess, investigate, and improve an organization's security maturity.
+
+I would use the second version. It sounds more like something written by a security analyst and immediately tells the reader that this project goes beyond simply mapping controls to a framework.
+
 ### **Overview**
 
 Security controls are often evaluated only after an organization experiences a security incident. In reality, effective cybersecurity requires understanding how existing controls perform before an attack occurs and identifying weaknesses before they become business problems.
