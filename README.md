@@ -4,7 +4,7 @@
 
 ### Why This Project Matters
 
-Organizations are not compromised because they lack security tools—they are compromised because security controls fail to prevent, detect, or respond to attacks effectively.
+Organizations are not compromised because they lack security tools, they are compromised because security controls fail to prevent, detect, or respond to attacks effectively.
 
 This project examines those failures through the lens of realistic incidents, using the NIST Cybersecurity Framework to assess security posture and the MITRE ATT&CK framework to understand attacker behavior. By connecting business risk, technical investigation, and security hardening recommendations, the project demonstrates the practical skills required to assess, investigate, and improve an organization's security maturity.
 
